@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "313949624559",
+    "firebase_url": "https://appointmentmanager-473b2.firebaseio.com",
+    "project_id": "appointmentmanager-473b2",
+    "storage_bucket": "appointmentmanager-473b2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313949624559:android:89558ddaca731af266e31a",
+        "android_client_info": {
+          "package_name": "com.example.appointmentmanagement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "313949624559-jrdtd8kbl3orig756tk57jk18rtbc7pp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9ASm2NwuMXSrIi-b84HhYiOHRA7kQ9oQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "313949624559-jrdtd8kbl3orig756tk57jk18rtbc7pp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313949624559:android:de12e169763fb8b866e31a",
+        "android_client_info": {
+          "package_name": "com.example.docterapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "313949624559-jrdtd8kbl3orig756tk57jk18rtbc7pp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9ASm2NwuMXSrIi-b84HhYiOHRA7kQ9oQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "313949624559-jrdtd8kbl3orig756tk57jk18rtbc7pp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313949624559:android:41e340f51a714d6266e31a",
+        "android_client_info": {
+          "package_name": "com.example.doctorapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "313949624559-jrdtd8kbl3orig756tk57jk18rtbc7pp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9ASm2NwuMXSrIi-b84HhYiOHRA7kQ9oQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "313949624559-jrdtd8kbl3orig756tk57jk18rtbc7pp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
